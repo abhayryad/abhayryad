@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abhay Yadav</h1>
+<h1 align="center">👋 Hi, I'm Abhay</h1>
 
 <p align="center">
   I'm a Flutter developer building clean, fast, and functional tools for real-world problems.  
