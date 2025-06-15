@@ -1,58 +1,67 @@
-# 👋 Hey, I'm Abhay Yadav
+<h1 align="center">👋 Hi, I'm Abhay Yadav</h1>
 
-I'm a developer focused on building **minimal**, **utility-driven** apps with clean design and actual usefulness. Whether it's debugging APIs, tracking moods, or chatting smarter — I like building tools that *just work*.
-
----
-
-### 🚀 Projects I'm Crafting
-
-#### 🔧 PocketAPI
-A lightweight Postman alternative for mobile. Test APIs quickly, manage requests with headers/body/params/auth, and view clean responses — all from your phone.
-
-#### 📔 Emolog
-A mood journal that lets you track emotions with emojis, visualize mood trends over time, and reflect — simple, aesthetic, and insightful.
-
-#### 💬 SynLink *(WIP)*
-A modern chat app built in Flutter, focused on **fast, private, and intuitive** messaging. Minimal UI, strong performance, and flexible features:
-- Realtime messaging (via Firebase)
-- Conversations, friend requests, status indicators
-- Scalable design with clean architecture
-- Future scope: Media sharing, themes, end-to-end encryption
-
-#### 🧠 AI + Flutter Experiments
-Working on practical AI features for mobile — like auto-tagging emotions in journals, summarizing conversations, and smart notifications.
+<p align="center">
+  I'm a Flutter developer building clean, fast, and functional tools for real-world problems.  
+  Currently focused on mobile-first developer tools, mood journaling apps, and practical AI integrations.
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-- **Flutter + Dart**
-- Firebase (Auth, Firestore, Messaging)
-- Hive • SharedPreferences
-- MongoDB • Node.js (basics)
-- AWS (RDS, Lambda, CloudWatch, etc.)
-- Provider • fl_chart • animations
-
----
-
-### 🎯 My Current Focus
-
-- Publishing PocketAPI & Emolog on the Play Store
-- Building SynLink with clean architecture and Firebase
-- Exploring Flutter + AI integration for real utility
-- Sharpening backend and cloud architecture skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hive-FFA500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ---
 
-### 📬 Let’s Connect
+## 📱 Projects
 
-- [LinkedIn](https://www.linkedin.com/in/abhay-yadav13/)
-- [LeetCode](https://leetcode.com/u/abhayryad/)
+### 🔧 PocketAPI  
+A mobile API testing tool — like Postman, but lightweight and built for developers on the go.
+
+### 📔 Emolog  
+A mood journal that uses emojis, charts, and minimal UI to help track how you feel over time.
+
+### 💬 SynLink  
+A modern, fast, and clean chat app with real-time messaging using Firebase.  
+Planned features: media sharing, user status, smart UI/UX, and future E2E encryption.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayryad&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayryad&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 📈 Currently Working On
+
+- 🧪 Publishing PocketAPI and Emolog on Play Store  
+- 💬 Building SynLink with Firebase backend & clean architecture  
+- 🤖 Exploring AI integrations into real-world apps  
+- 📚 Practicing DSA on [LeetCode](https://leetcode.com/u/abhayryad/)
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/abhay-yadav13/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect"/></a>
+  <a href="https://leetcode.com/u/abhayryad/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&label=Practice"/></a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
 
-I prefer **truth bombs over sugarcoating**. Brutal honesty builds better apps — and better devs.
-
----
+> I prefer **truth bombs over sugarcoating**. Brutal honesty builds better apps — and better devs.
