@@ -33,8 +33,6 @@
 ### 🔧 PocketAPI  
 A mobile API testing tool — like Postman, but lightweight and built for developers on the go.
 
-### 📔 Emolog  
-A mood journal that uses emojis, charts, and minimal UI to help track how you feel over time.
 
 ### 💬 SynLink  
 A modern, fast, and clean chat app with real-time messaging using Firebase.  
@@ -69,6 +67,3 @@ Planned features: media sharing, user status, smart UI/UX, and future E2E encryp
 
 ---
 
-### ⚡ Fun Fact
-
-> I prefer **truth bombs over sugarcoating**. Brutal honesty builds better apps — and better devs.
