@@ -1,4 +1,4 @@
-# Hi there, I'm Abhay 👋
+[# Hi there, I'm Abhay 👋
 
 ### AI & Software Engineer — Building cool things, breaking them, fixing them, and pretending that was the plan all along.
 
@@ -91,9 +91,3 @@
 * 🚧 **Untitled MCP Project** *(Model Context Protocol implementation)*
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayryad&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.
