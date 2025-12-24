@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -63,12 +64,26 @@
 
 ## 🚀 Featured Projects
 
-* **🛡️ Network Security MLOps**
-    * *End-to-end MLOps pipeline for detecting network intrusions using DagsHub & MLflow.*
-* **🔊 Engine Sound Classifier**
-    * *Deep Learning model to classify engine health using advanced audio processing.*
-* **⚖️ Legal Nexus**
-    * *RAG-based LLM system on Indian Laws (CrPC/IPC) using LangChain & Pinecone.*
+### **🛡️ Network Security MLOps**
+*A modular End-to-End Machine Learning pipeline for network threat detection.*
+* **Component-Based Architecture:** Designed a sequential ETL pipeline with dedicated components for Data Ingestion, Validation, Transformation, and Model Training.
+* **MongoDB Integration:** Implemented robust data ingestion logic to extract and manage raw network logs directly from a MongoDB NoSQL database.
+* **Automated Validation:** Built a schema-based validation system to ensure data quality and integrity before model training.
+* **Deployment Ready:** Containerized the application using Docker with a CI/CD workflow, enabling seamless inference via a web API.
+
+### **🔊 Engine Sound Classifier**
+*Deep Learning solution for predictive maintenance using audio analysis.*
+* **Audio Signal Processing:** Utilized Librosa to convert raw audio files into MFCCs and Mel-Spectrograms for feature extraction.
+* **Deep Learning Model:** Trained a Convolutional Neural Network (CNN) specifically tuned to recognize subtle frequency patterns in engine noise.
+* **Anomaly Detection:** Classifies engine health status with high precision, aiding in early fault detection and maintenance scheduling.
+* **Python Ecosystem:** Leveraged Pandas for metadata handling and Scikit-learn for preprocessing and performance metrics evaluation.
+
+### **⚖️ Legal Nexus**
+*RAG-based AI Legal Assistant specialized in Indian Law (IPC/CrPC).*
+* **Retrieval-Augmented Generation (RAG):** Built a system that retrieves context-aware legal sections to ground LLM responses in actual statute text.
+* **Vector Search:** Implemented Pinecone/FAISS to store and query high-dimensional embeddings of complex legal documents.
+* **Indian Legal Context:** Fine-tuned the retrieval pipeline to handle specific terminology from the Indian Penal Code and Constitution.
+* **GenAI Integration:** Orchestrated LangChain with Large Language Models to provide accurate, citation-backed legal answers to user queries.
 
 ---
 
@@ -81,23 +96,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhayryad&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayryad&layout=compact&theme=radical" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayryad&theme=radical" height="170" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhayryad&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayryad)
+  <img src="https://github-readme-stats.
