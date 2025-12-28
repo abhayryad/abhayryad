@@ -1,4 +1,4 @@
-[# Hi there, I'm Abhay 👋
+# Hi there, I'm Abhay 👋
 
 ### AI & Software Engineer — Building cool things, breaking them, fixing them, and pretending that was the plan all along.
 
